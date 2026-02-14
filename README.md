@@ -33,3 +33,11 @@
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=.net&logoColor=white)
 
+## 📊 GitHub Stats:
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbdullahSaitAvci/AbdullahSaitAvci/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AbdullahSaitAvci/AbdullahSaitAvci/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AbdullahSaitAvci/AbdullahSaitAvci/output/github-contribution-grid-snake.svg">
+</picture>
+
